@@ -2,6 +2,9 @@
 
 A simple and responsive To Do List application built using HTML, CSS, and JavaScript.
 
+## Preview
+https://lavi-here.github.io/TO-DO-LIST/
+
 ## Features
 - Add tasks
 - Delete tasks
