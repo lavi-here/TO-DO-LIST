@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+
+}
+#mainbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: white;
+    color: white;
+    resize: both;
+    overflow: auto;
+}
